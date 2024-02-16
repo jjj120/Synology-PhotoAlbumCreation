@@ -1,0 +1,9 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+pyotp==2.9.0
+python-dotenv==1.0.1
+requests==2.31.0
+setuptools==69.1.0
+synology-api==0.6.3
+urllib3==2.2.0
